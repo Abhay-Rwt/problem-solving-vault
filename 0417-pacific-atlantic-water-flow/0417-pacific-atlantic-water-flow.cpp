@@ -1,39 +1,7 @@
 class Solution {
 private:
     int dir[4][2] = {{1,0}, {0,1}, {-1,0}, {0,-1}};
-
-    // for pacific we can only go right and down;
-    void pacific(int row, int col, int n, int m, vector<vector<int>> &heights, 
-    vector<vector<int>> &vis)
-    {
-        vis[row][col] = 1;
-
-        if(row + 1 < n && vis[row + 1][col] == 0 
-        && heights[row + 1][col] >= heights[row][col]){
-            pacific(row+1, col, n, m, heights, vis);
-        }
-        if(col + 1 < m && vis[row][col + 1] == 0
-        && heights[row][col + 1] >= heights[row][col]){
-            pacific(row, col+1, n, m, heights, vis);
-        }
-    }
-
-    // and for atlantic we can only go left and top;
-    void atlantic(int row, int col, int n, int m, vector<vector<int>> &heights, 
-    vector<vector<int>> &vis)
-    {
-        vis[row][col] = 1;
-
-        if(row - 1 >= 0 && vis[row - 1][col] == 0 
-        && heights[row - 1][col] >= heights[row][col]){
-            atlantic(row-1, col, n, m, heights, vis);
-        }
-        if(col - 1 >= 0 && vis[row][col - 1] == 0
-        && heights[row][col - 1] >= heights[row][col]){
-            atlantic(row, col - 1, n, m, heights, vis);
-        }
-    }
-
+    
     void dfs(int row, int col, int n, int m, vector<vector<int>> &heights, 
     vector<vector<int>> &vis)
     {
