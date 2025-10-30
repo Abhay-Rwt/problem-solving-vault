@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
