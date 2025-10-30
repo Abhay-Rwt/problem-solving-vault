@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+## Recursion
+|  |
+| ------- |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
