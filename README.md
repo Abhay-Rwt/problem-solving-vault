@@ -56,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
