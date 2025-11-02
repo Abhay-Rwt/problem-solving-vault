@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Union Find
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1738-maximal-network-rank) |
 ## String
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Topological Sort
+|  |
+| ------- |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 <!---LeetCode Topics End-->
