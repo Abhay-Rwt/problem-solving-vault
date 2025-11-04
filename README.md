@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
+| [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Depth-First Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1738-maximal-network-rank](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1738-maximal-network-rank) |
 ## String
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
