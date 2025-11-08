@@ -2,7 +2,7 @@ class Solution {
     int dir[4][2] = {{1,0}, {0,1}, {-1,0}, {0,-1}};
 public:
     bool findSafeWalk(vector<vector<int>>& grid, int health) {
-        int n = grid.size(), m = grid[0].size(), best[51][51] = {};
+        int n = grid.size(), m = grid[0].size(), best[51][51] = {0};
         priority_queue<array<int, 3>> pq;
         pq.push({health - grid[0][0], 0, 0});
 
