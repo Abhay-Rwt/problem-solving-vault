@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Depth-First Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## String
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Dynamic Programming
 |  |
 | ------- |
