@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## String
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Shortest Path
 |  |
 | ------- |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
