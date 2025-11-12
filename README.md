@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
 | [1738-maximal-network-rank](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
