@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
 ## Number Theory
@@ -138,9 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
