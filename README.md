@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0119-pascals-triangle-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0119-pascals-triangle-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Minimum Spanning Tree
 |  |
