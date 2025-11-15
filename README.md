@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Minimum Spanning Tree
 |  |
