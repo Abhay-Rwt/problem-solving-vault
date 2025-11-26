@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1143-longest-common-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1143-longest-common-subsequence) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1086-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1236-n-th-tribonacci-number) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Minimum Spanning Tree
