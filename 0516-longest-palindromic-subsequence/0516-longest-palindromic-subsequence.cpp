@@ -31,21 +31,23 @@ public:
         string s1 = s;
         reverse(s.begin(), s.end());
 
-        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+        // vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+        vector<int> prev(n+1, 0), curr(n+1, 0);
         
         // return solve(n-1, n-1, s1, s, dp);
 
         for(int i=1; i<=n; i++){
             for(int j=1; j<=n; j++){
                 if(s1[i-1] == s[j-1]){
-                    dp[i][j] = dp[i-1][j-1] + 1;
+                    curr[j] = prev[j-1] + 1;
                 }
                 else{
-                    dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
+                    curr[j] = max(prev[j], curr[j-1]);
                 }
             }
+            prev = curr;
         }
 
-        return dp[n][n];
+        return prev[n];
     }
 };
