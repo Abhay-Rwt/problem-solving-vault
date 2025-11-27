@@ -31,7 +31,21 @@ public:
         string s1 = s;
         reverse(s.begin(), s.end());
 
-        vector<vector<int>> dp(n, vector<int>(n, -1));
-        return solve(n-1, n-1, s1, s, dp);
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+        
+        // return solve(n-1, n-1, s1, s, dp);
+
+        for(int i=1; i<=n; i++){
+            for(int j=1; j<=n; j++){
+                if(s1[i-1] == s[j-1]){
+                    dp[i][j] = dp[i-1][j-1] + 1;
+                }
+                else{
+                    dp[i][j] = max(dp[i-1][j], dp[i][j-1]);
+                }
+            }
+        }
+
+        return dp[n][n];
     }
 };
