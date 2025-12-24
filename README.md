@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1086-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1236-n-th-tribonacci-number) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Minimum Spanning Tree
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
 ## Tree
 |  |
