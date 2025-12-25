@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -202,12 +203,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0044-wildcard-matching) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Tree
 |  |
 | ------- |
