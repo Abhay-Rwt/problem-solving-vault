@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0119-pascals-triangle-ii) |
+| [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0312-burst-balloons) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -227,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2359-find-closest-node-to-given-two-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
