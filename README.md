@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0044-wildcard-matching) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
@@ -234,11 +236,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0144-binary-tree-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0144-binary-tree-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -260,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0144-binary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
