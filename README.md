@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3637-trionic-array-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Depth-First Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
+| [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph
 |  |
 | ------- |
@@ -268,8 +270,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
