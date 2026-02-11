@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0072-edit-distance) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0583-delete-operation-for-two-strings) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0144-binary-tree-preorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0144-binary-tree-preorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Theory
@@ -288,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
