@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1236-n-th-tribonacci-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0118-pascals-triangle) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3713-longest-balanced-substring-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
