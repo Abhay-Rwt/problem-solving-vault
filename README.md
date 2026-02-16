@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
