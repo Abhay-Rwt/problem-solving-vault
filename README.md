@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0693-binary-number-with-alternating-bits) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
