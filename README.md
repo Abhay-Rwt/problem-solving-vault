@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0070-climbing-stairs) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1236-n-th-tribonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
