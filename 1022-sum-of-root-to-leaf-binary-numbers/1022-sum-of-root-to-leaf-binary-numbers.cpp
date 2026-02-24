@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    vector<string> paths;
+    int sum = 0;
 
     int find_deci(string &str){
         int deci = 0;
@@ -27,7 +27,8 @@ public:
         path.push_back(root->val + '0');
 
         if(root->left == NULL && root->right == NULL){
-            paths.push_back(path);   
+            int deci = find_deci(path);
+            sum += deci;  
             return; 
         }
 
@@ -37,12 +38,6 @@ public:
 
     int sumRootToLeaf(TreeNode* root) {
         solve(root, "");
-
-        int sum = 0;
-        for(auto it: paths) {
-            int deci = find_deci(it);
-            sum += deci;
-        }
 
         return sum;
     }
