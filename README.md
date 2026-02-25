@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
 |  |
