@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0799-champagne-tower) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1086-divisor-game](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1086-divisor-game) |
