@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
+| [1046-last-stone-weight](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
