@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1143-longest-common-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3713-longest-balanced-substring-i) |
 ## Topological Sort
