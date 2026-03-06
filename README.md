@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
 | [1046-last-stone-weight](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
@@ -356,4 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0438-find-all-anagrams-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
