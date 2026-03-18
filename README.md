@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0799-champagne-tower) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1086-divisor-game](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1086-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1143-longest-common-subsequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1000-minimum-cost-to-merge-stones](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
