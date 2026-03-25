@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -304,11 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 ## Simulation
 |  |
