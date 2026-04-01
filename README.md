@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0200-number-of-islands](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0322-coin-change) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0119-pascals-triangle-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0213-house-robber-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0338-counting-bits) |
