@@ -26,7 +26,30 @@ public:
         int sum = 0;
         for(int &it:nums) sum += it;
         if(sum & 1) return false;
-        vector<vector<int>> dp(n, vector<int>((sum/2)+1, -1));
-        return solve(n-1, 0, nums, sum/2, dp);
+        // vector<vector<int>> dp(n, vector<int>((sum/2)+1, -1));
+        // return solve(n-1, 0, nums, sum/2, dp);
+
+
+        // ############################# TABULATION ################################
+        int target=(sum/2);
+        vector<vector<bool>> dp(n, vector<bool>(target+1)); 
+        
+        // for index == 0
+        dp[0][0] = true;
+        if(nums[0] <= target){
+            dp[0][nums[0]] = true;
+        }
+
+        // for index = 1 to n-1
+        for(int index=1; index<n; index++){
+            for(int s=0; s<=target; s++){
+                dp[index][s] = dp[index-1][s];
+                if(nums[index] <= s){
+                    dp[index][s] = dp[index][s] || dp[index-1][s-nums[index]];
+                }
+            }
+        }
+
+        return dp[n-1][target];
     }
 };
