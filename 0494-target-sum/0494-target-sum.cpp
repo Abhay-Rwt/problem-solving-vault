@@ -31,7 +31,12 @@ public:
 
         int totalSum = 0;
         for(int &it: nums) totalSum += it;
-
+        
+        // positiveSum - negativeSum = target
+        // positiveSum + negativeSum = totalSum
+        // positiveSum = (target + totalSum) / 2
+        // So, the subsets with sum equals to positiveSum is the answer then
+         
         if(totalSum < abs(target) || (totalSum+target) % 2 != 0){
             return 0;
         }
