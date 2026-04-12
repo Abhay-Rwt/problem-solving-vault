@@ -49,6 +49,7 @@ public:
                 else{
                     int replace = 1 + dp[i-1][j-1];
                     int del = 1 + min(dp[i-1][j], dp[i][j-1]);
+                    // this transition is dup of the above transition actually!
                     // int insert = 1 + min(dp[i-1][j], dp[i][j-1]);
 
                     dp[i][j] = min(replace, del);
