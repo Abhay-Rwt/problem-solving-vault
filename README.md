@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0518-coin-change-ii) |
+| [0554-brick-wall](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0554-brick-wall) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0554-brick-wall](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0554-brick-wall) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0947-most-stones-removed-with-same-row-or-column) |
