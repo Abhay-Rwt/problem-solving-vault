@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1236-n-th-tribonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3655-digit-operations-to-make-two-integers-equal](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3655-digit-operations-to-make-two-integers-equal) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
