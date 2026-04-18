@@ -408,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0494-target-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
