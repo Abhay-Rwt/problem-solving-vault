@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2906-construct-product-matrix](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2906-construct-product-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0134-gas-station) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
