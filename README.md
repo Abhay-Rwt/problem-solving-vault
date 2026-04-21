@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1706-min-cost-to-connect-all-points) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Simulation
 |  |
 | ------- |
