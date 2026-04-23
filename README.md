@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2906-construct-product-matrix](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3713-longest-balanced-substring-i) |
 ## Topological Sort
@@ -427,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0511-game-play-analysis-i) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
