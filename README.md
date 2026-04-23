@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0511-game-play-analysis-i) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0595-big-countries) |
 ## Trie
 |  |
 | ------- |
