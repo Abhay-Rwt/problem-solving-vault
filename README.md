@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2615-sum-of-distances) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2906-construct-product-matrix](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1039-find-the-town-judge) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
+| [2615-sum-of-distances](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2615-sum-of-distances) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1000-minimum-cost-to-merge-stones) |
+| [2615-sum-of-distances](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2906-construct-product-matrix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
