@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0494-target-sum) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0554-brick-wall](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0554-brick-wall) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 | [1048-longest-string-chain](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1048-longest-string-chain) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
@@ -406,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/3713-longest-balanced-substring-i) |
 ## Combinatorics
@@ -449,4 +455,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
