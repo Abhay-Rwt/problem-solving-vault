@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0743-network-delay-time) |
 | [0827-making-a-large-island](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0869-similar-string-groups](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0869-similar-string-groups) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0743-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1325-path-with-maximum-probability) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0310-minimum-height-trees) |
 | [0684-redundant-connection](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0743-network-delay-time) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Abhay-Rwt/problem-solving-vault/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Union-Find
